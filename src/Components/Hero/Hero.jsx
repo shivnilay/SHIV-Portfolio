@@ -7,12 +7,13 @@ const Hero = () => {
     <div id="home" className="hero">
       <img src={profile_img} alt="" />
       <h1>
-        <span>I am SHIV NILAY SHUKLA </span>React Developer Based In India
+        <span> SHIV NILAY SHUKLA </span>React Developer Based In India
       </h1>
       <p>
-        Passionate Frontend Developer | Skilled in React.js, Next.js, Redux,
+        Passionate Frontend Developer with 11+ years of experience, including 2
+        years of expertise in React.js. Skilled in React.js, Next.js, Redux,
         Redux Toolkit, Thunk, Saga, Hooks, JavaScript (ES6+), TypeScript,
-        Tailwind CSS, HTML5, CSS3, and Bootstrap 4.
+        Tailwind CSS, HTML5, CSS3, and Bootstrap 4
       </p>
       <div className="hero-action">
         <div className="hero-connect">
