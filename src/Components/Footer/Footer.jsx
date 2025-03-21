@@ -25,12 +25,13 @@ const Footer = () => {
       <hr />
       <div className="footer-bottom">
         <p className="footer-bottom-left">
-          @ 2023 Alex Bennett All right reserved
+          @ 2025 Shiv Nilay Shukla | React.js Developer | Frontend Engineer |
+          India
         </p>
         <div className="footer-bottom-right">
           <p>Term Of Services</p>
           <p>Privacy Policy</p>
-          <p>Connect With me</p>
+          <p>Connect With Me</p>
         </div>
       </div>
     </div>
