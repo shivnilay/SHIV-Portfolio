@@ -9,9 +9,10 @@ const Footer = () => {
         <div className="footer-top-left">
           <img src={logo} alt="" />
           <p>
-            Passionate Frontend Developer | Skilled in React.js, Next.js, Redux,
-            Redux Toolkit, Thunk, Saga, Hooks, JavaScript (ES6+), TypeScript,
-            Tailwind CSS, HTML5, CSS3, and Bootstrap 4.
+            Passionate Frontend Developer with 11+ years of experience,
+            including 2 years of expertise in React.js. Skilled in React.js,
+            Next.js, Redux, Redux Toolkit, Thunk, Saga, Hooks, JavaScript
+            (ES6+), TypeScript, Tailwind CSS, HTML5, CSS3, and Bootstrap 4
           </p>
         </div>
         <div className="footer-top-right">
