@@ -32,6 +32,8 @@
 
 .about-left img {
   border-radius: 50%;
+  height: 350px;
+  width: 350px;
 }
 
 .about-para {

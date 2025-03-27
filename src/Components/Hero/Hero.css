@@ -8,6 +8,8 @@
 .hero img {
   margin-top: 150px;
   border-radius: 50%;
+  height: 350px;
+  width: 350px;
 }
 .hero h1 {
   text-align: center;
